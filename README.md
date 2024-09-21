@@ -1,4 +1,5 @@
-Hollywood Analysis: This Power BI project designs a dynamic dashboard to explore Hollywood box office performance, uncover trends in movie genres, star power, and release dates. The analysis visualizes revenue and ticket sales across different genres and years, highlights top-grossing movies and actors, and benchmarks performance metrics against industry standards.
+##Hollywood Analysis
+This Power BI project designs a dynamic dashboard to explore Hollywood box office performance, uncover trends in movie genres, star power, and release dates. The analysis visualizes revenue and ticket sales across different genres and years, highlights top-grossing movies and actors, and benchmarks performance metrics against industry standards.
 
 HR Analysis: This project develops an insightful Power BI dashboard to monitor and analyze HR metrics, encompassing employee demographics, turnover rates, compensation, and performance. The dashboard visualizes employee distribution by department, gender, and ethnicity, tracks recruitment and retention trends, and assesses compensation structures against industry benchmarks.
 
