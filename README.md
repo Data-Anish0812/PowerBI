@@ -7,4 +7,5 @@ This project develops an insightful Power BI dashboard to monitor and analyze HR
 # Superstore Analysis
 This Power BI project constructs an interactive dashboard to evaluate store performance, emphasizing sales trends, inventory levels, and customer behavior. The dashboard highlights key metrics such as sales by store location, product performance, and inventory turnover, identifying sales opportunities and enhancing operational efficiencies.
 
-World Cup Analysis: This Power BI project creates a comprehensive dashboard to scrutinize World Cup tournament data, including team performance, match outcomes, and player statistics. The dashboard offers visual insights into team rankings, match results, and player contributions, enabling fans and analysts to examine historical performance and trends across various tournaments.
+# World Cup Analysis 
+This Power BI project creates a comprehensive dashboard to scrutinize World Cup tournament data, including team performance, match outcomes, and player statistics. The dashboard offers visual insights into team rankings, match results, and player contributions, enabling fans and analysts to examine historical performance and trends across various tournaments.
